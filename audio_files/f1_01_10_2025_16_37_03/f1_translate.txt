@@ -1,0 +1,7 @@
+Do you want this translated into Hindi or into natural/cleaned English? 
+
+Here are both options:
+
+- Hindi: "हेलो। हेलो, मेरी पत्नी, मेरी पत्नी। सर, मैं... मैं... मैं माफी चाहता/चाहती हूँ, सर।" (use "चाहता" if male speaker, "चाहती" if female)
+
+- Cleaned English: "Hello. Hello — my wife, my wife. Sir, I'm... I'm... I'm sorry, sir."

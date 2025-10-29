@@ -1,0 +1,17 @@
+[2025-08-26 23:40:18,630] INFO [django.utils.autoreload:run_with_reloader:667] Watching for file changes with StatReloader
+[2025-08-26 23:40:27,843] INFO [django:save_audio_file:26] C:\Users\hp\OneDrive\Documents\Projects\audio_analysis\application\audio_analysis\audio_files\9097763009_26_08_2025_23_40_27
+[2025-08-26 23:40:27,851] INFO [django:post:34] C:\Users\hp\OneDrive\Documents\Projects\audio_analysis\application\audio_analysis\audio_files\9097763009_26_08_2025_23_40_27\9097763009.wav
+[2025-08-26 23:40:28,759] INFO [django.server:log_message:213] "POST /upload/ HTTP/1.1" 201 102
+[2025-08-26 23:41:58,900] INFO [django:save_audio_file:26] C:\Users\hp\OneDrive\Documents\Projects\audio_analysis\application\audio_analysis\audio_files\9097763009_26_08_2025_23_41_58
+[2025-08-26 23:41:58,903] INFO [django:post:34] C:\Users\hp\OneDrive\Documents\Projects\audio_analysis\application\audio_analysis\audio_files\9097763009_26_08_2025_23_41_58\9097763009.wav
+[2025-08-26 23:41:59,019] INFO [django.server:log_message:213] "POST /upload/ HTTP/1.1" 201 102
+[2025-08-26 23:44:19,158] INFO [django.utils.autoreload:trigger_reload:265] C:\Users\hp\OneDrive\Documents\Projects\audio_analysis\application\audio_analysis\backend\tasks.py changed, reloading.
+[2025-08-26 23:44:22,805] INFO [django.utils.autoreload:run_with_reloader:667] Watching for file changes with StatReloader
+[2025-08-26 23:45:01,195] INFO [django:save_audio_file:26] C:\Users\hp\OneDrive\Documents\Projects\audio_analysis\application\audio_analysis\audio_files\9097763009_26_08_2025_23_45_01
+[2025-08-26 23:45:01,202] INFO [django:post:34] C:\Users\hp\OneDrive\Documents\Projects\audio_analysis\application\audio_analysis\audio_files\9097763009_26_08_2025_23_45_01\9097763009.wav
+[2025-08-26 23:45:01,563] INFO [django.server:log_message:213] "POST /upload/ HTTP/1.1" 201 102
+[2025-08-26 23:51:39,369] INFO [django.utils.autoreload:trigger_reload:265] C:\Users\hp\OneDrive\Documents\Projects\audio_analysis\application\audio_analysis\backend\tasks.py changed, reloading.
+[2025-08-26 23:51:53,826] INFO [django.utils.autoreload:run_with_reloader:667] Watching for file changes with StatReloader
+[2025-08-26 23:52:38,104] INFO [django:save_audio_file:26] C:\Users\hp\OneDrive\Documents\Projects\audio_analysis\application\audio_analysis\audio_files\9097763009_26_08_2025_23_52_38
+[2025-08-26 23:52:38,106] INFO [django:post:34] C:\Users\hp\OneDrive\Documents\Projects\audio_analysis\application\audio_analysis\audio_files\9097763009_26_08_2025_23_52_38\9097763009.wav
+[2025-08-26 23:52:39,215] INFO [django.server:log_message:213] "POST /upload/ HTTP/1.1" 201 102

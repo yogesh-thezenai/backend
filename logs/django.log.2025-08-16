@@ -1,0 +1,26 @@
+[2025-08-16 16:17:27,985] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[2025-08-16 16:18:26,123] INFO [django.utils.autoreload:265] C:\Users\hp\OneDrive\Documents\Projects\audio_analysis\application\audio_analysis\backend\views.py changed, reloading.
+[2025-08-16 16:18:27,382] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[2025-08-16 16:18:54,448] INFO [django.utils.autoreload:265] C:\Users\hp\OneDrive\Documents\Projects\audio_analysis\application\audio_analysis\backend\views.py changed, reloading.
+[2025-08-16 16:18:55,673] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[2025-08-16 16:20:16,124] INFO [django.utils.autoreload:265] C:\Users\hp\OneDrive\Documents\Projects\audio_analysis\application\audio_analysis\backend\views.py changed, reloading.
+[2025-08-16 16:20:17,792] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[2025-08-16 16:24:22,036] INFO [django.server:213] "POST /upload/ HTTP/1.1" 201 200
+[2025-08-16 16:24:30,406] INFO [django.utils.autoreload:265] C:\Users\hp\OneDrive\Documents\Projects\audio_analysis\application\audio_analysis\backend\views.py changed, reloading.
+[2025-08-16 16:24:35,481] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[2025-08-16 16:25:57,562] INFO [django.utils.autoreload:265] C:\Users\hp\OneDrive\Documents\Projects\audio_analysis\application\audio_analysis\backend\views.py changed, reloading.
+[2025-08-16 16:25:59,166] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[2025-08-16 16:27:25,493] INFO [django.utils.autoreload:265] C:\Users\hp\OneDrive\Documents\Projects\audio_analysis\application\audio_analysis\backend\tasks.py changed, reloading.
+[2025-08-16 16:27:26,869] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[2025-08-16 16:27:38,467] INFO [django.utils.autoreload:265] C:\Users\hp\OneDrive\Documents\Projects\audio_analysis\application\audio_analysis\backend\tasks.py changed, reloading.
+[2025-08-16 16:27:39,634] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[2025-08-16 16:27:52,590] INFO [django.utils.autoreload:265] C:\Users\hp\OneDrive\Documents\Projects\audio_analysis\application\audio_analysis\backend\tasks.py changed, reloading.
+[2025-08-16 16:27:53,791] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[2025-08-16 16:29:49,101] INFO [django.utils.autoreload:265] C:\Users\hp\OneDrive\Documents\Projects\audio_analysis\application\audio_analysis\backend\views.py changed, reloading.
+[2025-08-16 16:29:51,250] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[2025-08-16 17:08:48,123] INFO [django.utils.autoreload:265] C:\Users\hp\OneDrive\Documents\Projects\audio_analysis\application\audio_analysis\backend\models\audio_file.py changed, reloading.
+[2025-08-16 17:09:04,186] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[2025-08-16 17:10:22,283] INFO [django.utils.autoreload:265] C:\Users\hp\OneDrive\Documents\Projects\audio_analysis\application\audio_analysis\backend\models\audio_file.py changed, reloading.
+[2025-08-16 17:10:28,763] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[2025-08-16 17:10:57,345] INFO [django.utils.autoreload:265] C:\Users\hp\OneDrive\Documents\Projects\audio_analysis\application\audio_analysis\backend\models\audio_file.py changed, reloading.
+[2025-08-16 17:10:58,857] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader

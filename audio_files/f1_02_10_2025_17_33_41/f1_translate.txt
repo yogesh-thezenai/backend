@@ -1,0 +1,5 @@
+Cleaned English (natural flow):
+"Hello? Hello. May I—may I speak? Sir, I'm... I'm... I'm sorry, sir."
+
+Hindi translation:
+"हेलो? हेलो। क्या मैं — क्या मैं बात कर सकता/सकती हूँ? सर, मैं... मैं... मुझे खेद है, सर।"
