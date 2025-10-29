@@ -14,7 +14,7 @@ logger = logging.getLogger("celery")
 llm = AzureChatOpenAI(
     deployment_name="gpt-5-mini",   # 👈 your Azure deployment name (NOT model name!)
     azure_endpoint="https://yoges-mdbraw1t-eastus2.cognitiveservices.azure.com/",
-    api_key="2vmiQacLtF35eltzROIOOZ6P37AQNz07tWqDawwRa5qhQY25z8iwJQQJ99BGACHYHv6XJ3w3AAAAACOGylfG",
+    api_key="<enter key>",
     api_version="2024-12-01-preview",     # must match API version you enabled
     temperature=1
 )

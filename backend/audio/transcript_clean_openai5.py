@@ -29,7 +29,7 @@ class TranscriptCleanOpenAi5(TranscriptCleanBase):
             model_name = "gpt-5-mini"
             deployment = "gpt-5-mini"
 
-            subscription_key = "2vmiQacLtF35eltzROIOOZ6P37AQNz07tWqDawwRa5qhQY25z8iwJQQJ99BGACHYHv6XJ3w3AAAAACOGylfG"
+            subscription_key = "<enter key>"
             api_version = "2024-12-01-preview"
 
             # client = AzureOpenAI(

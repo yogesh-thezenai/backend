@@ -51,5 +51,5 @@ def transcribe_audio(audio_file_path: str, subscription_key: str):
 if __name__ == "__main__":
     file_path = "C:\\Users\\DELL\\workspace\\Projects\\audio_analysis\\workspace_file\\9097763009.wav"
 
-    result = transcribe_audio(file_path, "2vmiQacLtF35eltzROIOOZ6P37AQNz07tWqDawwRa5qhQY25z8iwJQQJ99BGACHYHv6XJ3w3AAAAACOGylfG")
+    result = transcribe_audio(file_path, "<enter key>")
     print(result)

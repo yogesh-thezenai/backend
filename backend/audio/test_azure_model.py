@@ -11,7 +11,7 @@ class TranscriptAzure:
     def __init__(self, language: str = "english"):
         # super().__init__(language)
         self.language = "hi-IN"
-        self.subscription_key = "2vmiQacLtF35eltzROIOOZ6P37AQNz07tWqDawwRa5qhQY25z8iwJQQJ99BGACHYHv6XJ3w3AAAAACOGylfG"
+        self.subscription_key = "<enter key>"
         self.region = "eastus2"
         self.endpoint = (
             f"https://yoges-mdbraw1t-eastus2.cognitiveservices.azure.com/speechtotext/transcriptions:transcribe?api-version=2024-11-15"
